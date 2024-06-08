@@ -1,6 +1,8 @@
 # Hello, This is Gautham 👋
 
-![Banner](https://via.placeholder.com/1500x500.png?text=Cloud+Engineer,+DevOps+Engineer,+Full-Stack+Developer+|+M.S.+CS+at+Virginia+Tech+|+Ex-Informatica,+Nokia,+JSpiders+|+Specializing+in+AI/ML,+LLM+Fine-tuning,+Microservices,+and+Automation)
+
+![Banner](assets/1.jpg)
+
 
 I am Gautham Gali, currently pursuing my M.S. in Computer Science at Virginia Tech. I am passionate about developing innovative software solutions and have a strong background in cloud computing, DevOps, full-stack development, and AI/ML.
 
@@ -8,9 +10,10 @@ I am Gautham Gali, currently pursuing my M.S. in Computer Science at Virginia Te
 
 - **Email:** ggali14@vt.edu
 - **Phone:** (540) 557-8111
-- **LinkedIn:** [linkedin.com/in/gautham-gali](https://www.linkedin.com/in/gautham-gali/)
-- **GitHub:** [github.com/zorogotty14](https://github.com/zorogotty14)
-- **Portfolio:** [zorogotty14.github.io](https://zorogotty14.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-gali/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zorogotty14)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zorogotty14.github.io/)
 
 ## 🛠 Technical Skills and Interests
 
@@ -126,8 +129,4 @@ I am Gautham Gali, currently pursuing my M.S. in Computer Science at Virginia Te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-gali/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zorogotty14)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zorogotty14.github.io/)
-
----
-
-![Tech Image](https://via.placeholder.com/1500x500.png?text=Technology+Background)
 
