@@ -4,11 +4,12 @@
 ![Banner](assets/1.jpg)
 
 
-I am Gautham Gali, currently pursuing my M.S. in Computer Science at Virginia Tech. I am passionate about developing innovative software solutions and have a strong background in cloud computing, DevOps, full-stack development, and AI/ML.
+I'm a Full Stack Java developer and DevOps engineer with a passion for building cloud-native, scalable web applications using Java, Spring, and modern backend technologies. I specialize in automating infrastructure with CI/CD pipelines, Docker, Kubernetes, and infrastructure-as-code tools to deliver robust and efficient solutions.
+
 
 ## 📫 How to reach me
 
-- **Email:** ggali14@vt.edu
+- **Email:** gauthamgali14@gmail.com
 - **Phone:** (540) 557-8111
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-gali/)
@@ -87,42 +88,56 @@ I am Gautham Gali, currently pursuing my M.S. in Computer Science at Virginia Te
 ## 🏫 Education
 
 - **M.S. in Computer Science, Virginia Tech**  
-  August 2023 - Present
-- **B.Tech. in Computer Science, PES University**  
-  August 2016 - July 2020
+  August 2023 - December 2024
 
 ## 💼 Professional Experience
 
+### Research Intern, George Mason University 
+**March 2025 – Present**  
+- Built an MLOps framework using GCP Vertex AI, Kubernetes, and Cloud Composer to automate LLM workflows.  
+- Implemented AI compliance processes and monitored data lakes for SLA adherence and billing insights.  
+- Automated model deployment and scaling using GKE and Terraform.
+
+
 ### Graduate Student, Virginia Tech
-**August 2023 – Current**
+**August 2023 – December 2024**
 - Mastering data structures, algorithms, and software engineering.
 - Hands-on experience in LLM fine-tuning and image processing.
 - Completed 10+ advanced projects, improving AI model accuracy by 70%.
 
 ### Software Engineer 2, Informatica
-**April 2022 – July 2023**
+**March 2021 – July 2023**
 - Developed Terraform scripts for Jenkins pipeline, enhancing cloud capabilities.
 - Automated zero-downtime deployments, improving efficiency by 60%.
 - Led Scrum meetings, facilitating agile workflows.
-
-### Software Engineer 1, Informatica
-**March 2021 – March 2022**
 - Automated webhook data migration with Kubernetes.
 - Developed automation scripts, improving deployment efficiency by 70%.
 - Designed efficient REST APIs with Swagger.
 
-### Software Engineer, JSpiders
-**August 2020 - February 2021**
-- Developed web projects with microservices in Java and JavaScript.
-- Improved user engagement with React.js.
-- Designed Java modules for enhanced code reusability.
 
 ### Associate Software Engineer, Nokia Networks
-**February 2020 - July 2020**
+**February 2020 - February 2021**
 - Orchestrated Kubernetes clusters for fault tolerance.
 - Enhanced server connections using Python.
 
+### Junior Software Engineer, Orbysol Systems  
+**April 2018 – February 2020**  
+- Developed cloud-native backend systems on AWS using ECS, ALB, and Terraform.  
+- Integrated Fluentd and ELK Stack for observability across data pipelines.  
+- Provisioned auto-scaling infrastructure and collaborated with cross-functional teams on SLA-driven solutions.
+
+
 ## 🔧 Projects
+### Brain Tumor Detection using Deep Learning and Explainable AI with LLaMA 3B Instruct   
+**Dec 2024 – Present**  
+- Developed a CNN-based classification model to detect brain tumors from MRI images with high accuracy.  
+- Integrated the model into a user-friendly web interface for real-time diagnosis assistance.  
+- Fine-tuned LLaMA 3B Instruct for explainable question-answering on medical datasets.  
+
+### Algosphere - Interactive Algorithm Visualizer  
+**July 2024 – October 2024**  
+- Built an interactive visualization tool for teaching data structures and algorithms.  
+- Enabled step-by-step execution and graphical video output for algorithms like Dijkstra, Merge Sort, and DFS/BFS.
 
 ### Political Bias Detection App using LLM
 **January 2024 – May 2024**
@@ -135,7 +150,7 @@ I am Gautham Gali, currently pursuing my M.S. in Computer Science at Virginia Te
 ## 🏅 Leadership Experience
 
 ### Mentor, Informatica LLC
-**February 2021 – July 2022**
+**February 2021 – July 2023**
 - Assisted in onboarding new interns and engineers.
 
 ### Core Team Member of Atmatrisha, PES University
