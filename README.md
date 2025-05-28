@@ -89,6 +89,16 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" height="64" /><br>Spring Boot
     </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/ad6a8ae8-221e-45de-96fc-fbdbe797f4ec" width="64" height="64" /><br>Apache Tomcat
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/5ce89430-0017-4d99-898b-c558e092395c" width="64" height="64" /><br>Apache Airflow
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/42275a12-23a5-4aa7-9dde-8fb37166f50d" width="64" height="64" /><br>Apache Maven
+    </td>
+
   </tr>
 </table>
 
@@ -116,7 +126,7 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
       <img src="https://github.com/user-attachments/assets/c2af452e-0929-4fec-8224-8af0d2298d99" width="64" height="64" /><br>HTML 5
     </td>
     <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/d852272a-7b51-4303-ba46-57d824f92c86" width="64" height="64" /><br>HTML 5
+      <img src="https://github.com/user-attachments/assets/d852272a-7b51-4303-ba46-57d824f92c86" width="64" height="64" /><br>Tailwind CSS
     </td>
 
   </tr>
@@ -136,6 +146,16 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" /><br>Docker
     </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/f7d94efb-7a41-463e-81e2-e652681a39c5" width="64" height="64" /><br>Ansible
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/82b2dc00-98ba-4e60-844e-44a9c026a3f7" width="64" height="64" /><br>Helm
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/52491691-2d23-4298-9450-4025cec5d74c" width="64" height="64" /><br>Elastic Search
+    </td>
+
   </tr>
   <tr>
     <td align="center" width="100">
@@ -150,7 +170,23 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" /><br>PyTorch
     </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/2ea60011-f5c8-43f6-8e20-516055380f29g" width="64" height="64" /><br>Consul
+    </td>
+  <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/c4219ad3-acc1-4b75-923f-84c57b16f5a5" width="64" height="64" /><br>Streamlit
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/00a4dfd3-cf07-42c6-9ece-e6b054beec79" width="64" height="64" /><br>Swagger
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/bc01215d-3f7c-4e4f-b37c-ff1ddf6d3217" width="64" height="64" /><br>SonarCube
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/0bc44def-3d1f-48f1-b48a-01db947ea616" width="64" height="64" /><br>Terraform
+    </td>
   </tr>
+  
 </table>
 
 
