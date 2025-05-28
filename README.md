@@ -177,6 +177,4 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
 
 ![zorogotty14's Stats](https://github-readme-stats.vercel.app/api?username=zorogotty14&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
-![zorogotty14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zorogotty14&theme=vue&hide_border=true)
-
 ![zorogotty14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorogotty14&theme=vue&show_icons=true&hide_border=true&layout=compact)
