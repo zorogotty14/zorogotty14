@@ -128,7 +128,9 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://github.com/user-attachments/assets/d852272a-7b51-4303-ba46-57d824f92c86" width="64" height="64" /><br>Tailwind CSS
     </td>
-
+<td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/0bc44def-3d1f-48f1-b48a-01db947ea616" width="64" height="64" /><br>Terraform
+    </td>
   </tr>
   
   
@@ -155,7 +157,9 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://github.com/user-attachments/assets/52491691-2d23-4298-9450-4025cec5d74c" width="64" height="64" /><br>Elastic Search
     </td>
-
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/bc01215d-3f7c-4e4f-b37c-ff1ddf6d3217" width="64" height="64" /><br>SonarCube
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -171,7 +175,7 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" /><br>PyTorch
     </td>
     <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/2ea60011-f5c8-43f6-8e20-516055380f29g" width="64" height="64" /><br>Consul
+      <img src="https://github.com/user-attachments/assets/911affa2-0ec1-42c4-aca9-472bad27c790" width="64" height="64" /><br>Consul
     </td>
   <td align="center" width="100">
       <img src="https://github.com/user-attachments/assets/c4219ad3-acc1-4b75-923f-84c57b16f5a5" width="64" height="64" /><br>Streamlit
@@ -179,12 +183,8 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://github.com/user-attachments/assets/00a4dfd3-cf07-42c6-9ece-e6b054beec79" width="64" height="64" /><br>Swagger
     </td>
-    <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/bc01215d-3f7c-4e4f-b37c-ff1ddf6d3217" width="64" height="64" /><br>SonarCube
-    </td>
-    <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/0bc44def-3d1f-48f1-b48a-01db947ea616" width="64" height="64" /><br>Terraform
-    </td>
+    
+    
   </tr>
   
 </table>
