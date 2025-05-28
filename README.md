@@ -26,7 +26,7 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
       <img src="https://github.com/user-attachments/assets/21e8a4ec-e024-40c3-a922-ada8be2c8655" width="64" height="64" /><br>OpenAI
     </td>
     <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/9e904715-ca3e-431e-babe-6712fab362d9" width="64" height="64" /><br>LLaMA
+      <img src="https://github.com/user-attachments/assets/b4009f31-b484-43f4-839d-8d52561aee5b" width="64" height="64" /><br>LLaMA
     </td>
     <td align="center" width="100">
       <img src="https://github.com/user-attachments/assets/a345010b-2775-41fa-892b-25b447c7efc7" width="64" height="64" /><br>Claude
