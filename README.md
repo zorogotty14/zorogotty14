@@ -175,8 +175,8 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zorogotty14)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zorogotty14.github.io/)
 
-![zorogotty14's Stats](https://github-readme-stats.vercel.app/api?username=zorogotty14&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![zorogotty14's Stats](https://github-readme-stats.vercel.app/api?username=zorogotty14&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
-![zorogotty14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zorogotty14&theme=vue&hide_border=false)
+![zorogotty14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zorogotty14&theme=vue&hide_border=true)
 
-![zorogotty14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorogotty14&theme=vue&show_icons=true&hide_border=false&layout=compact)
+![zorogotty14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorogotty14&theme=vue&show_icons=true&hide_border=true&layout=compact)
