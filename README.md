@@ -23,38 +23,16 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /><br>OpenAI
+      <img src="https://github.com/user-attachments/assets/21e8a4ec-e024-40c3-a922-ada8be2c8655" width="64" height="64" /><br>OpenAI
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mistral_AI_Logo.png" width="64" height="64" /><br>Mistral
+      <img src="https://github.com/user-attachments/assets/9e904715-ca3e-431e-babe-6712fab362d9" width="64" height="64" /><br>LLaMA
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LLaMA_logo.svg/2560px-LLaMA_logo.svg.png" width="64" height="64" /><br>LLaMA
+      <img src="https://github.com/user-attachments/assets/a345010b-2775-41fa-892b-25b447c7efc7" width="64" height="64" /><br>Claude
     </td>
     <td align="center" width="100">
-      <img src="https://seeklogo.com/images/A/anthropic-logo-4DAED06D7A-seeklogo.com.png" width="64" height="64" /><br>Claude
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="64" height="64" /><br>Vision Models
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" width="64" height="64" /><br>Gemini
-    </td>
-    <td align="center" width="100">
-      <img src="https://learn.microsoft.com/en-us/media/logos/azure-ai.svg" width="64" height="64" /><br>Azure AI Studio
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_AI_Logo.png" width="64" height="64" /><br>Gemini AI Studio
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" /><br>Text Tools
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/3161/3161186.png" width="64" height="64" /><br>Voice Tools
+      <img src="https://github.com/user-attachments/assets/67ee366e-e655-4a95-9ea0-fd3344015050" width="64" height="64" /><br>Gemini
     </td>
   </tr>
 </table>
@@ -111,23 +89,6 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" height="64" /><br>Spring Boot
     </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/J2EE_Logo.png" width="64" height="64" /><br>J2EE
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/JSP_Logo.png" width="64" height="64" /><br>JSP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/JBoss_logo.svg/512px-JBoss_logo.svg.png" width="64" height="64" /><br>JBoss
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/JMeter_Logo.svg" width="64" height="64" /><br>JMeter
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/JPA_logo.png" width="64" height="64" /><br>JPA
-    </td>
   </tr>
 </table>
 
@@ -148,7 +109,20 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" /><br>Node.js
     </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/df1a6815-6971-46d5-9f16-aca395bf2312" width="64" height="64" /><br>FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/c2af452e-0929-4fec-8224-8af0d2298d99" width="64" height="64" /><br>HTML 5
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/user-attachments/assets/d852272a-7b51-4303-ba46-57d824f92c86" width="64" height="64" /><br>HTML 5
+    </td>
+
   </tr>
+  
+  
+
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vue" width="64" height="64" /><br>Vue.js
@@ -177,11 +151,6 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" /><br>PyTorch
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="64" height="64" /><br>Scikit-learn
-    </td>
-  </tr>
 </table>
 
 
@@ -208,9 +177,6 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="64" /><br>Kafka
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/memcached/memcached-plain.svg" width="64" height="64" /><br>Memcached
     </td>
   </tr>
 </table>
@@ -263,11 +229,6 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" />
       </span><br>Azure
     </td>
-    <td align="center" width="100">
-      <span style="zoom: 1.5;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/informatica/informatica-original.svg" width="48" height="48" />
-      </span><br>Informatica
-    </td>
   </tr>
 </table>
 
@@ -281,6 +242,8 @@ I'm a Full Stack Java developer and DevOps engineer with a passion for building 
     <td align="center" width="100"><span style="zoom: 1.5;"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /></span><br>Postman</td>
     <td align="center" width="100"><span style="zoom: 1.5;"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /></span><br>Figma</td>
     <td align="center" width="100"><span style="zoom: 1.5;"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></span><br>Jira</td>
+    <td align="center" width="100"><span style="zoom: 1.5;"><img src="https://github.com/user-attachments/assets/4b5874f7-9fed-478a-a3ac-430010e76a8e"/></span><br>Jenkins</td>
+
   </tr>
 </table>
 
